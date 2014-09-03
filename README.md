@@ -1,4 +1,4 @@
-Handy-JavaScript-tools
+Handy JavaScript tools
 ======================
 
 Functions and other JavaScript pieces that help to manipulate DOM elements.
